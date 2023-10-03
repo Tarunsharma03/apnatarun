@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apnatarun
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Phthon & Data Science.
+- 🌱 I’m currently learning Python & Data Science.
 - 💞️ I’m looking to collaborate on AI & ML & Data Science.
 - 📫 How to reach me (tarun2396@gmail.com)
 
